@@ -1,0 +1,6 @@
+{
+  "name": "Patient Case-Taking Software",
+  "description": "Digital Patient Case-Taking and Case History Management web application (SIH26047).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
